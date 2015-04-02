@@ -1,0 +1,38 @@
+#pgHdr{
+	margin-top: 0;
+}
+
+#pnlBdy{
+	padding-top: 0;
+}
+
+#featureImg{
+	margin-bottom: 15px;
+}
+
+#body{
+	margin-bottom: 120px;
+	margin-top: 100px;
+}
+#jmb{
+	background-color: #604829;
+}
+#ftrItem{
+	background-color: transparent;
+	border-radius: 2px;
+}
+#btnClose{
+	padding-left: 95%;
+}
+#jruLogo{
+	margin-top: -35px;
+}
+#view,#forum{
+	padding-top: 100px;	
+}
+#contact{
+	padding-top: 50px;
+}
+#registerBtns{
+	padding-left: 515px;
+}
